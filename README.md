@@ -1,7 +1,7 @@
 libCoolProp
 ===========
 
-Original from https://github.com/ibell/coolprop. I only modified the path of header files and added CMake setting
+Original from https://github.com/ibell/coolprop (v 4.1.0). I only modified the path of header files and added CMake setting
 
 
 ================================================================================
