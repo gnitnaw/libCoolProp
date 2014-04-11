@@ -1,0 +1,2 @@
+SUBDIRS(pseudopurefluids purefluids rapidjson)
+
